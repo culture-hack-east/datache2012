@@ -12,11 +12,10 @@ iCal feeds
 Film data
 ---------
 
-- cff-2010-events.csv
-- cff-2011-events.csv
+- cff-2010-films.csv
+- cff-2011-films.csv
 
 Film length is in minutes.
 
 
 Data provided by Studio 24 - www.studio24.net
-Simon R Jones, simon@studio24.net
