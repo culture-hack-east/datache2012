@@ -1,0 +1,46 @@
+"SHOW","FROM","TO","VENUE","PLACE","No_OF_PERFORMANCES","TICKETS_SOLD"
+"Floating",30/01/2007,03/02/2007,"The_Drum","Plymouth",5,712
+"Floating",06/02/2007,07/02/2007,"The_Point","Eastleigh",2,177
+"Floating",09/02/2007,10/02/2007,"New_Wolsey","Ipswich",2,549
+"Floating",28/02/2007,03/03/2007,"Barrow_Street","New York",5,698
+"Floating",12/06/2007,16/06/2007,"Everyman","Liverpool",5,627
+"Floating",19/06/2007,30/06/2007,"Barbican","London",10,980
+"Floating",20/08/2007,27/08/2007,"Pleasance","Edinburgh",8,1000
+"Floating",11/09/2007,11/09/2007,"Oxford_Playhouse","Oxford",1,240
+"Floating",13/09/2007,15/09/2007,"Northern_Stage","Newcastle",3,222
+"Floating",20/09/2007,22/09/2007,"The_Lowry","Salford",4,489
+"Floating",31/10/2007,03/11/2007,"West_Yorkshire_Playhouse","Leeds",5,834
+"Floating",21/11/2007,22/11/2007,"Cambridge_Arts_Theatre","Cambridge",3,1195
+,,,,,,
+"Story of a Rabbit",09/02/2007,10/02/2007,"New_Wolsey","Ipswich",3,295
+"Story of a Rabbit",19/06/2007,30/06/2007,"Barbican","London",1,158
+"Story of a Rabbit",26/07/2007,26/07/2007,"New_Wolsey","Ipswich",1,98
+"Story of a Rabbit",01/08/2007,28/08/2007,"Pleasance","Edinburgh",24,2652
+"Story of a Rabbit",20/03/2008,23/03/2008,"Theatre_Festival","Bogota",5,1250
+"Story of a Rabbit",02/05/2008,03/05/2008,"N&N_festival","Norwich",2,200
+"Story of a Rabbit",07/05/2008,10/05/2008,"The_Junction","Cambridge",4,560
+"Story of a Rabbit",13/05/2008,17/05/2008,"Everyman","Liverpool",5,553
+"Story of a Rabbit",20/05/2008,24/05/2008,"Brighton_Festival","Brighton",6,896
+"Story of a Rabbit",30/05/2008,31/05/2008,"New_Wolsey","Ipswich",2,296
+"Story of a Rabbit",03/06/2008,07/06/2008,"The_Drum","Plymouth",5,521
+"Story of a Rabbit",11/06/2008,21/06/2008,"Barbican","London",10,1146
+"Story of a Rabbit",15/08/2008,17/08/2008,"Korjaamo_Culture_Factory","Helsinki",3,300
+"Story of a Rabbit",18/02/2009,21/02/2009,"National_Museum_of_Singapore","Singapore",5,1250
+"Story of a Rabbit",04/03/2009,14/03/2009,"Sydney_Opera_House","Sydney",11,2673
+"Story of a Rabbit",18/03/2009,22/03/2009,"Melbourne_Arts_House","Melbourne",5,480
+"Story of a Rabbit",28/03/2009,31/03/2009,"Earl_Arts_Centre",,3,512
+"Story of a Rabbit",02/04/2009,05/04/2009,"Playhouse_Theatre","Hobart",4,
+"Story of a Rabbit",15/05/2009,17/05/2009,"Wexner_Centre_for_the_Arts","Columbus",3,
+"Story of a Rabbit",22/05/2009,25/05/2009,"Emmett_Robinson_Theatre","Charleston",5,
+"Story of a Rabbit",28/05/2009,30/05/2009,"Walker_Arts_Centre","Minneapolis",3,
+"Story of a Rabbit",02/11/2009,03/11/2009,"The_Point","Eastleigh",2,189
+"Story of a Rabbit",04/11/2009,05/11/2009,"Cambridge_Arts_Theatre","Cambridge",2,446
+"Story of a Rabbit",11/11/2009,14/11/2009,"Traverse","Edinburgh",4,384
+"Story of a Rabbit",18/11/2009,21/11/2009,"Curve","Leicester",4,308
+,,,,,,
+360,29/01/2009,31/01/2009,"The_Junction","Cambridge",3,300
+360,17/07/2009,19/07/2009,"Latitude_festival","Suffolk",1,
+360,23/07/2009,23/07/2009,"South_Street_Art_Centre","Reading",1,150
+360,,,"Pleasance","Edinburgh",24,2495
+360,11/10/2009,11/10/2009,"New_Wolsey","Ipswich",1,220
+360,24/11/2009,28/11/2009,"The_Drum","Plymouth",4,405
